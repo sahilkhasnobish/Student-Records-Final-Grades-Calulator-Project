@@ -1,1 +1,1 @@
-# CP-476-Final-Project-Internet-Computing-
+# Student Records and Final Grades Calculator - Project
